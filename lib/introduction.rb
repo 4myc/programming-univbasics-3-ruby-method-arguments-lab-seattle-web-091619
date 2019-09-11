@@ -10,6 +10,9 @@ def instruction_with_language_optional(name, language="Ruby")
   puts "Hi, my name is #{name} and I am learning to program in #{language}."
 end
 
+def instruction_with_language_optional(name, language="computer")
+  puts "Hi, my name is #{name} and I am learning to program in #{language}."
+end
 
 # Write your code here. If you get stuck, at the very bottom of this lab we've included
 # the answers. You should ONLY check those answers if you get totally stuck. The important
