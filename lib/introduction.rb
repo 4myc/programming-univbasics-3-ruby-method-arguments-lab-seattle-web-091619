@@ -6,7 +6,7 @@ def introduction_with_language(name, language)
   puts "Hi, my name is #{name} and I am learning to program in #{language}."
 end
 
-def instruction_with_language_optional(name, Ruby)
+def instruction_with_language_optional(name, )
 
 end
 # Write your code here. If you get stuck, at the very bottom of this lab we've included
